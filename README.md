@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kgothalo-r a front end web developer from Durban, South Africa
+- 👋 Hi, I’m @kgothalo-r a software engineer from Durban, South Africa
 - 👀 I’m interested in solving problems and mainly challenging myself recreating UIs and UX from different sites.
 - 🌱 I’m currently learning Javascript and React.js, I say learning with inverted commas because I believe no matter now much knowledge one has acquired in JS and React there is always more to learn around the corner.
 - 💞️ I’m looking to collaborate on projects aimed at challenging user experiences while also adding to creativity of design
